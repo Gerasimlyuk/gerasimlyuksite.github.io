@@ -1,0 +1,112 @@
+header {
+	height: 389px;
+	display: block;
+	background: url("../img/backgoud.jpg");
+	background-position: center;	
+}
+
+header .navbar {
+	display: block;
+	width: 1200px;
+	height: 1000px;
+	margin: 0 auto;
+}
+
+header .navbar-brand{
+	display: block;
+	padding: 0 400px;
+	margin:  0px auto;
+}
+
+header .container-fluid ul{
+	margin: -10px 00px 0 auto;
+} 
+
+li{
+	display: inline-block;
+}
+.search{
+	display: inline-block;
+}
+.smenu {
+	margin-top: 170px;
+}
+input[type="search"] {
+	background-image: url(../img/search.png);
+    border: none;
+	border-radius: 15px 0 0 15px ;
+	margin-right: -5px;
+    width: 270px;
+	height: 61px;
+	font-size: 24px;
+}
+input[type="submit"] {
+    width: 61px; 
+    height: 59px; 
+    border: none;
+	padding-top: 5px;
+	margin-right: 100px;
+    background: url(../img/bsearch.png);
+}
+
+.p2 {
+	display: block;
+	padding-left: 50px;
+	padding-top: 40px;
+}
+
+.p2 li a{
+	display: inline-block;
+	width: 166px;
+	height: 58px;
+	background-image: url(../img/butn.png);
+	padding-top: 5px;
+	text-decoration: none;
+}
+.p2 li a p{
+	text-align: center;
+	font-size: 28px;
+	color: black;
+}
+.p2qqq{
+	display: inline-block;
+	width: 235px;
+	margin-left:  50px;
+	margin-right: 80px;
+}
+.p2qqq a{
+	display: inline-block;
+	margin-left: 35px;
+	align-content: center;
+}
+.imrol {
+	width: 100%;
+	margin: auto;
+	align-content: center;
+	background-color: #387178;
+}
+.introl{
+	display: block;
+	width: 1200px;
+	margin: 0 auto;
+}
+.slider {
+	background: #f0d9ba;
+	padding: 0;
+	margin: 0;
+}
+.footer {
+	height: 383px;
+	background-image: url(../img/footerbg.jpg);
+}
+.footer ul{
+	margin: auto;
+}
+.footer ul li a{
+	background: none;
+
+}
+
+
+
+
